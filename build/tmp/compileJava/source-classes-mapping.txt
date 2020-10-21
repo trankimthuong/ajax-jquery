@@ -1,0 +1,16 @@
+com/codegym/repository/SmartphoneRepository.java
+ com.codegym.repository.SmartphoneRepository
+com/codegym/service/impl/SmartphoneServiceImpl.java
+ com.codegym.service.SmartphoneServiceImpl
+com/codegym/AppInitializer.java
+ com.codegym.AppInitializer
+com/codegym/AppConfiguration.java
+ com.codegym.AppConfiguration
+com/codegym/controller/HomeController.java
+ com.codegym.controller.HomeController
+com/codegym/model/Smartphone.java
+ com.codegym.model.Smartphone
+com/codegym/service/SmartphoneService.java
+ com.codegym.service.SmartphoneService
+com/codegym/controller/SmartphoneController.java
+ com.codegym.controller.SmartphoneController
